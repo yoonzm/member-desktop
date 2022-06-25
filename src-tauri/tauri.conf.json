@@ -7,7 +7,7 @@
     "distDir": "https://member.mymember.ltd"
   },
   "package": {
-    "productName": "我的会员管家",
+    "productName": "member",
     "version": "1.0.0"
   },
   "tauri": {
@@ -44,7 +44,10 @@
       "windows": {
         "certificateThumbprint": null,
         "digestAlgorithm": "sha256",
-        "timestampUrl": ""
+        "timestampUrl": "",
+        "wix": {
+          "language": "zh-CN"
+        }
       }
     },
     "security": {

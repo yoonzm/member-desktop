@@ -1,0 +1,14 @@
+{
+  "name": "tauri-shell",
+  "scripts": {
+    "tauri": "tauri",
+    "dev": "cd ../ && npm run dev:h5",
+    "build": "cd ../ && npm run build:h5"
+  },
+  "dependencies": {
+    "@tauri-apps/api": "^1.0.1"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^1.0.0"
+  }
+}
