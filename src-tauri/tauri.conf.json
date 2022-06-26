@@ -16,8 +16,8 @@
     },
     "bundle": {
       "active": true,
-      "category": "DeveloperTool",
-      "copyright": "",
+      "category": "Business",
+      "copyright": "xianzhuimu",
       "deb": {
         "depends": []
       },
@@ -30,7 +30,7 @@
         "icons/icon.ico"
       ],
       "identifier": "com.yoonzm.member",
-      "longDescription": "",
+      "longDescription": "简单、便捷、免费的会员管理系统。适用于理发，洗车，美容等各种行业。为商家老板提供多店铺、店员、会员及其消费项目管理等多种服务。",
       "macOS": {
         "entitlements": null,
         "exceptionDomain": "",
@@ -39,7 +39,7 @@
         "signingIdentity": null
       },
       "resources": [],
-      "shortDescription": "",
+      "shortDescription": "免费的会员管理软件",
       "targets": "all",
       "windows": {
         "certificateThumbprint": null,
